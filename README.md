@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZiniaJoti
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Applied Statistics
+- 🌱 I’m currently studying Applied Statistics using Data Science
 - 💞️ I’m looking to collaborate on Data Analytics projects
 - 📫 zinia.sultana09@gmail.com
 - 😄 Pronouns: she/her
