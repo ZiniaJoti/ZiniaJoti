@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Analytics projects
 - 📫 zinia.sultana09@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I do digital arts as hobby. you can check out my arts @https://www.instagram.com/__i_niaa_arts/
+- ⚡ Fun fact: I do digital art as a hobby. you can check out my arts @https://www.instagram.com/__i_niaa_arts/
 
 <!---
 ZiniaJoti/ZiniaJoti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
